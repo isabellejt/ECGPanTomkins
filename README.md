@@ -1,1 +1,2 @@
-# ECGPanTomkins
+# Pan Tomkins ECG from Scratch
+This project processes ECG data using the Pan-Tompkins method to detect R-peaks and determine heart rate (BPM). It involves signal analysis with Discrete Fourier Transform (DFT), filtering with low-pass and high-pass filters, a moving average filter, differentiation, squaring, and thresholding to enhance peak detection. By identifying R-peaks, the system calculates heart beats per minute, providing a fundamental step in ECG signal analysis.
